@@ -9,11 +9,7 @@ MedLEDGER tackles fragmented health records, interoperability issues, security v
 Using Hyperledger Fabric for blockchain provides secure, immutable storage for patient records. Decentralized access control ensures only authorized parties can access data, enhancing privacy. Efficient data management reduces administrative burdens and costs. Patients also gain control over their health data, managing access in real-time.
 
 ### Built With
-1.React.js
-2.Node.js
-3.Solidity
-4.Ganache
-5.Truffle
+React.js,Node.js,Solidity,Ganache,Truffle
 
 ### Contact 
 For more information, please free to contact LinkedIn  www.linkedin.com/in/sima-rai
