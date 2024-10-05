@@ -2,7 +2,7 @@
 MedLEDGER is a blockchain-based health record system designed to revolutionize the way patient data is stored and shared. 
 
 
-## Problem Statement
+### Problem Statement
 MedLEDGER addresses the critical challenges of fragmented health records,
 lack of interoperability, security vulnerabilities, and limited patient control in the
 healthcare system. By leveraging blockchain technology, specifically through
@@ -13,6 +13,6 @@ This innovative solution seeks to enhance data sharing among healthcare
 providers, empower patients with control over their information, and ultimately
 improve the quality of care delivered to patients.
 
-## Contact 
+### Contact 
 For more information, please free to contact LinkedIn  www.linkedin.com/in/sima-rai
 
