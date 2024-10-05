@@ -3,15 +3,7 @@ MedLEDGER is a blockchain-based health record system designed to revolutionize t
 
 
 ### Problem Statement
-MedLEDGER addresses the critical challenges of fragmented health records,
-lack of interoperability, security vulnerabilities, and limited patient control in the
-healthcare system. By leveraging blockchain technology, specifically through
-Solidity for smart contract,Ganache,Truffle,Node.js and React.js. MedLEDGER aims to create a secure and
-decentralized platform that ensures authorized access to sensitive patient data
-while preserving data integrity and privacy.
-This innovative solution seeks to enhance data sharing among healthcare
-providers, empower patients with control over their information, and ultimately
-improve the quality of care delivered to patients.
+MedLEDGER tackles fragmented health records, interoperability issues, security vulnerabilities, and limited patient control in healthcare. Using blockchain technology with Solidity, Ganache, Truffle, Node.js, and React.js, it creates a secure, decentralized platform for authorized access to patient data, ensuring data integrity and privacy. MedLEDGER aims to improve data sharing among providers, empower patient control, and enhance care quality.
 
 ### Contact 
 For more information, please free to contact LinkedIn  www.linkedin.com/in/sima-rai
