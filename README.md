@@ -1,4 +1,4 @@
-﻿# medledger
+﻿# MedLEDGER
 MedLEDGER is a blockchain-based health record system designed to revolutionize the way patient data is stored and shared. 
 
 
